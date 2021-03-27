@@ -56,5 +56,10 @@ guess letters and updates every client’s hidden word until the client decides 
 
 ## Sample Runs:
 
+![image](https://user-images.githubusercontent.com/50872362/112713173-fb049000-8ee4-11eb-9de8-69767af03208.png)
+![image](https://user-images.githubusercontent.com/50872362/112713178-02c43480-8ee5-11eb-9919-23e245fdae07.png)
+![image](https://user-images.githubusercontent.com/50872362/112713183-0a83d900-8ee5-11eb-95e1-f2c241d2d5d5.png)
+![image](https://user-images.githubusercontent.com/50872362/112713188-0e176000-8ee5-11eb-8186-1dfa044dd99b.png)
+![image](https://user-images.githubusercontent.com/50872362/112713192-1374aa80-8ee5-11eb-8dfa-703c11359430.png)
 
 
